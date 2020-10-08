@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-这是一个链接 [菜鸟教程](https://www.youtube.com/)
+ [一键回城](https://immortalfrog1s.github.io/eggwords-github.io/)
 
 ```markdown
 Syntax highlighted code block
